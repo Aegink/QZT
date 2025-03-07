@@ -1,0 +1,16 @@
+# 网络请求相关
+requests>=2.32.0  # HTTP请求库，用于与黔职通API交互
+urllib3>=2.2.2  # HTTP客户端库，requests的依赖
+certifi>=2024.2.2  # SSL/TLS证书验证
+charset-normalizer>=3.3.2  # 字符编码检测和规范化
+idna>=3.7  # 国际化域名处理
+
+# 数据库相关
+mysql-connector-python>=8.3.0  # MySQL数据库连接器
+
+# 加密相关
+pycryptodome>=3.20.0  # 加密库，用于AES加密
+
+# 验证码处理相关
+opencv-python>=4.9.0.80  # OpenCV图像处理库，用于验证码识别
+numpy>=1.26.3  # 科学计算库，OpenCV依赖
