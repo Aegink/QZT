@@ -1,6 +1,12 @@
+## 许可证
+本项目现依据 **GNU General Public License v3.0** 发布。详见 [LICENSE](LICENSE)。
+
 # 本项目基于开源项目“https://github.com/Iuleoo/QZT?tab=readme-ov-file”，在此感谢大佬
+
 # 本项目仅供学习交流使用，请勿用于非法用途。
+
 # 本项目不保证打卡成功，请自行承担使用风险
+
 # 黔职通自动打卡系统 - 使用手册
 
 ## 一、开始之前
